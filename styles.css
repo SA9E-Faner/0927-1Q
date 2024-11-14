@@ -1,0 +1,25 @@
+body{
+	background-image:url("background.jpeg");
+
+}
+
+h1 {
+    color:lightcoral;
+    text-align: center;
+}
+
+
+
+p{
+    text-align: center;
+
+
+}
+.container {
+	background-color: lightpink ;
+	width: 200px;
+	margin: auto;
+	border: 5px solid;
+	border-color: lightyellow;
+	padding: 10px;
+}
